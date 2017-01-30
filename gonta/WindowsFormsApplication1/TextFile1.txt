@@ -1,0 +1,7 @@
+﻿役に立つ、もしくは、刺激を受けたTwitterなど
+https://guides.github.com/features/mastering-markdown/
+GitHubのマークダウンについて書かれているので、覚えておいて損は無いだろう。
+
+https://tracpath.com/works/development/texteditor_atom/
+GitHub開発のテキストエディッタの話しなど。
+
